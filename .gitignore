@@ -1,0 +1,4 @@
+.env
+anaconda_projects/*
+
+__pycache__
